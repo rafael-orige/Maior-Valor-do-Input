@@ -1,3 +1,5 @@
+<img src="image.png" />
+
 ## Para que serve isso:<br />
 
 Esse foi apenas um exercício de Javascript onde o objetivo era estudar arrays.<br /><br />
